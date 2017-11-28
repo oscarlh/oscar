@@ -6,15 +6,6 @@
     <annotation-enable>false</annotation-enable>
     <other-services-enabled>false</other-services-enabled>
   </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="localRepository" value="$PROJECT_DIR$/../repo" />
-        <option name="mavenHome" value="$PROJECT_DIR$/../apache-maven-3.5.0" />
-        <option name="userSettingsFile" value="$PROJECT_DIR$/../apache-maven-3.5.0/conf/settings.xml" />
-      </MavenGeneralSettings>
-    </option>
-  </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
       <profile-state>
